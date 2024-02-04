@@ -1,3 +1,6 @@
+![Alt text](./setup_diagram.png "setup diagram")
+
+
 # Instructions
 Note: This assumes that you have an AWS account, IAM user with required permissions, and its credentials were set up as a profile for [aws-cli](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-quickstart.html#getting-started-quickstart-new-command), and you have **kubectl** installed.
 
