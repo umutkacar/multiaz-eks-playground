@@ -9,7 +9,7 @@ spec:
       app: hello
       tier: frontend
       track: stable
-  replicas: 1
+  replicas: 3
   template:
     metadata:
       labels:
